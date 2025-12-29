@@ -19,24 +19,38 @@
     }
 
     .mask-rect {
-      animation: typing 3.5s steps(32, end) forwards;
+      animation: typing 3.5s steps(36, end) forwards;
     }
 
     @keyframes typing {
       from { width: 0; }
-      to { width: 1000px; }
+      to { width: 820px; }
+    }
+
+    .cursor-move {
+      animation: cursorMove 3.5s steps(36, end) forwards;
+    }
+
+    @keyframes cursorMove {
+      from { transform: translateX(0); }
+      to { transform: translateX(820px); }
     }
   </style>
 
   <defs>
     <mask id="typing-mask">
-      <rect class="mask-rect" x="0" y="0" width="0" height="140" fill="white" />
+      <rect class="mask-rect" x="90" y="0" width="0" height="140" fill="white" />
     </mask>
   </defs>
 
+  <!-- Text -->
   <g mask="url(#typing-mask)">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">buraaks — building things quietly</text>
+    <text x="90" y="70" class="text">
+      buraaks — building things quietly
+    </text>
   </g>
-  
-  <rect x="830" y="55" width="10" height="30" class="cursor" />
+
+  <!-- Cursor -->
+  <rect x="90" y="50" width="10" height="30"
+        class="cursor cursor-move" />
 </svg>
