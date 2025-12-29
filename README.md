@@ -1,16 +1,18 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://buraaks.github.io">me</a> ·
+  <a href="https://buraaks.github.io/#projects">projects</a> ·
+  <a href="https://buraaks.github.io/#books">books</a> ·
+  <a href="https://buraaks.github.io/#photos">photos</a>
+</p>
 
-<!--
-**buraaks/buraaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br><br>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/typing.svg" width="420">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/signature.svg" width="120">
+</p>
