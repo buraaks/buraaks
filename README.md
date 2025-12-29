@@ -8,8 +8,4 @@
   <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/assets/typing.svg" width="420">
 </p>
 
-<br><br>
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/assets/signature.svg" width="120">
-</p>
