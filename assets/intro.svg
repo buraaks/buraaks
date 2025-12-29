@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 38px;
+      fill: #00ff9c;
+      font-weight: 500;
+      white-space: pre;
+    }
+    .cursor {
+      fill: #00ff9c;
+      animation: blink 0.8s infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
+    buraaks — building things quietly
+  </text>
+  <rect x="830" y="55" width="10" height="30" class="cursor" />
+</svg>

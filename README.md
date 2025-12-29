@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/typing.svg" width="600" />
+  <img src="assets/intro.svg" width="600" />
 </p>
 
 <h1 align="center">Hi there, I'm Burak! 👋</h1>
