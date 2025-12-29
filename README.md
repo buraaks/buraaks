@@ -1,8 +1,5 @@
 <p align="center">
   <a href="https://buraaks.github.io">me</a> ·
-  <a href="https://buraaks.github.io/#projects">projects</a> ·
-  <a href="https://buraaks.github.io/#books">books</a> ·
-  <a href="https://buraaks.github.io/#photos">photos</a>
 </p>
 
 <br><br>
