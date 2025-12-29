@@ -2,7 +2,14 @@
   <img src="assets/typing.svg" width="600" />
 </p>
 
-<h1 align="center">Hi there, I'm Burak! <img src="" width="60px"></h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/assets/typing.svg" width="520">
+</p>
+
+<p align="right">
+  <img src="https://raw.githubusercontent.com/buraaks/buraaks/main/assets/TOJİ.gif" width="120">
+</p>
+
 
 <p align="center">
   <strong>C# / .NET Developer</strong>
