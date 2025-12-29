@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://buraaks.github.io">me</a> ·
+  <a href="https://buraaks.github.io">me</a> 
 </p>
 
 <br><br>
