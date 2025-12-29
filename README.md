@@ -2,7 +2,7 @@
   <img src="assets/typing.svg" width="600" />
 </p>
 
-<h1 align="center">Hi there, I'm Burak! <img src="https://media.giphy.com/media/hvRJCLzz8CXT357BcE/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Burak! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3c0MGp6bDF6ZGhoMWl5NmlqMjAyM2l0OGVjOWhzem1tanBlYnk5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/5GDUqoy1ZJUzakHLlp/giphy.gif" width="60px"></h1>
 
 <p align="center">
   <strong>C# / .NET Developer | Simulation Enthusiast | Tool Builder</strong>
@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://buraaks.github.io">Website</a> •
   <a href="https://github.com/buraaks?tab=repositories">Projects</a> •
-  <a href="mailto:burak@example.com">Contact</a>
+  <a href="mailto:buraktemur0816@gmail.com">Contact</a>
 </p>
 
 ---
