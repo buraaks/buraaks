@@ -1,12 +1,11 @@
 <svg viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
-    
     .text {
-      font-family: 'Fira Code', monospace;
+      font-family: monospace;
       font-size: 38px;
       fill: #00ff9c;
       font-weight: 500;
+      white-space: pre;
     }
 
     .cursor {
@@ -20,7 +19,7 @@
     }
 
     .mask-rect {
-      animation: typing 3.5s steps(40, end) forwards;
+      animation: typing 3.5s steps(32, end) forwards;
     }
 
     @keyframes typing {
@@ -36,11 +35,8 @@
   </defs>
 
   <g mask="url(#typing-mask)">
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
-      buraaks — building things quietly
-    </text>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">buraaks — building things quietly</text>
   </g>
   
-  <!-- Bu kısım sadece imleç etkisi için -->
-  <rect x="810" y="55" width="3" height="30" class="cursor" />
+  <rect x="830" y="55" width="10" height="30" class="cursor" />
 </svg>
