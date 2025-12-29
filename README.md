@@ -1,13 +1,7 @@
-<p align="right">
-  <img src="assets/TOJİ.gif" width="120">
-</p>
-
 <p align="center">
   <img src="assets/intro.svg" width="600" />
+  <img src="assets/TOJİ.gif" width="120" />
 </p>
-
-<h1 align="center">Hi there, I'm Burak! 👋</h1>
-
 
 <p align="center">
   <strong>C# / .NET Developer</strong>
