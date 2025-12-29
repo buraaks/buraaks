@@ -8,49 +8,43 @@
       white-space: pre;
     }
 
-    .cursor {
-      fill: #00ff9c;
-      animation: blink 0.8s infinite;
-    }
-
-    @keyframes blink {
-      0%, 100% { opacity: 1; }
-      50% { opacity: 0; }
-    }
-
-    .mask-rect {
+    .mask {
       animation: typing 3.5s steps(36, end) forwards;
     }
 
     @keyframes typing {
       from { width: 0; }
-      to { width: 820px; }
+      to { width: 860px; }
     }
 
-    .cursor-move {
-      animation: cursorMove 3.5s steps(36, end) forwards;
+    .cursor {
+      font-family: monospace;
+      font-size: 38px;
+      fill: #00ff9c;
+      animation: blink 1s steps(1) infinite;
+      animation-delay: 3.5s;
     }
 
-    @keyframes cursorMove {
-      from { transform: translateX(0); }
-      to { transform: translateX(820px); }
+    @keyframes blink {
+      0% { opacity: 1; }
+      50% { opacity: 0; }
+      100% { opacity: 1; }
     }
   </style>
 
   <defs>
     <mask id="typing-mask">
-      <rect class="mask-rect" x="90" y="0" width="0" height="140" fill="white" />
+      <rect class="mask" x="70" y="0" width="0" height="140" fill="white" />
     </mask>
   </defs>
 
   <!-- Text -->
   <g mask="url(#typing-mask)">
-    <text x="90" y="70" class="text">
+    <text x="70" y="80" class="text">
       buraaks — building things quietly
     </text>
   </g>
 
   <!-- Cursor -->
-  <rect x="90" y="50" width="10" height="30"
-        class="cursor cursor-move" />
+  <text x="930" y="80" class="cursor">|</text>
 </svg>
