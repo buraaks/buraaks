@@ -1,35 +1,46 @@
 <svg viewBox="0 0 1000 140" xmlns="http://www.w3.org/2000/svg">
   <style>
-    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
     
     .text {
       font-family: 'Fira Code', monospace;
-      font-size: 44px;
+      font-size: 38px;
       fill: #00ff9c;
       font-weight: 500;
-      opacity: 0;
-      animation: fadeIn 0.5s ease-in forwards;
     }
 
-    @keyframes fadeIn {
-      to { opacity: 1; }
+    .cursor {
+      fill: #00ff9c;
+      animation: blink 0.8s infinite;
     }
 
-    .typing {
-      animation: draw 3s steps(40, end) forwards;
-      stroke-dasharray: 1000;
-      stroke-dashoffset: 1000;
-      fill: none;
-      stroke: #00ff9c;
-      stroke-width: 1;
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
     }
 
-    @keyframes draw {
-      to { stroke-dashoffset: 0; }
+    .mask-rect {
+      animation: typing 3.5s steps(40, end) forwards;
+    }
+
+    @keyframes typing {
+      from { width: 0; }
+      to { width: 1000px; }
     }
   </style>
 
-  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
-    buraaks — building things quietly
-  </text>
+  <defs>
+    <mask id="typing-mask">
+      <rect class="mask-rect" x="0" y="0" width="0" height="140" fill="white" />
+    </mask>
+  </defs>
+
+  <g mask="url(#typing-mask)">
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" class="text">
+      buraaks — building things quietly
+    </text>
+  </g>
+  
+  <!-- Bu kısım sadece imleç etkisi için -->
+  <rect x="810" y="55" width="3" height="30" class="cursor" />
 </svg>
