@@ -1,8 +1,6 @@
 <p align="center">
   <img src="assets/intro.svg" width="640" />
-</p>
 
-<p align="center">
   <img src="assets/TOJİ.gif" width="120" />
 </p>
 
