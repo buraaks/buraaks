@@ -7,7 +7,7 @@
 <h3 align="center">C# / .NET Developer</h3>
 
 <p align="center">
-  <a href="buraaks.github.io">
+  <a href="https://buraaks.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/buraaks?tab=repositories">
