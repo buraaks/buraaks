@@ -7,15 +7,13 @@
 <h3 align="center">C# / .NET Developer</h3>
 
 <p align="center">
-  <a href="buraaks.github.io/vue-portfolio/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://github.com/buraaks?tab=repositories">
     <img src="https://img.shields.io/badge/Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:buraktemur0816@gmail.com">
     <img src="https://img.shields.io/badge/Contact-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
 ---
 
 <p align="center">
