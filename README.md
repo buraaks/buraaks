@@ -18,7 +18,9 @@
   </a>
 </p>
 
-<p>buraaks.github.io/vue-portfolio/</p>
+<a href="buraaks.github.io/vue-portfolio/">
+sasasasaasas
+</a>
 
 ---
 
