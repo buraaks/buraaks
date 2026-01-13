@@ -16,10 +16,6 @@
   <a href="mailto:buraktemur0816@gmail.com">
     <img src="https://img.shields.io/badge/Contact-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-buraaks.github.io/vue-portfolio/
-</a>
-
 ---
 
 <p align="center">
