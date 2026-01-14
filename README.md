@@ -15,14 +15,13 @@
   </a>
 </p>
 
-  
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=buraaks&style=for-the-badge&color=dc143c&style=flat" />
+</p>
+
 ---
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
-</p>
-
----
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=buraaks&style=for-the-badge&color=dc143c&style=flat" />
 </p>
