@@ -4,7 +4,7 @@
   <img src="assets/TOJİ.gif" width="120" />
 </p>
 
-<h3 align="center">C# / .NET Developer</h3>
+<h3 align="center">.NET Developer / Web Designer</h3>
 
 <p align="center">
   <a href="https://github.com/buraaks?tab=repositories">
