@@ -13,9 +13,16 @@
   <a href="mailto:buraktemur0816@gmail.com">
     <img src="https://img.shields.io/badge/Contact-0a66c2?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
   
 ---
 
 <p align="center">
   <i>“Code is like humor. When you have to explain it, it’s bad.”</i>
+</p>
+
+---
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=buraaks&style=for-the-badge&color=dc143c&style=flat" />
 </p>
